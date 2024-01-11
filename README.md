@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @MrRobotIsHere
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning every moments of the day 
+- 📫 How to contact me: MrFakeRobot.pro@gmail.com
+- ⚡ Fun fact: Im crazy about this situation.
+
+<!---
+MrRobotIsHere/MrRobotIsHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
