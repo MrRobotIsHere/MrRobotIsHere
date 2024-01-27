@@ -1,4 +1,5 @@
 ### Hi there 👋
+Call me MOH(MrRbot)
 
 <!--
 **MrRobotIsHere/MrRobotIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,8 +13,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->![download](https://github.com/MrRobotIsHere/MrRobotIsHere/assets/154834564/5319fc90-39c8-4c89-99e7-d55d10bd6d25)
+- ⚡ Fun fact: In our life we a;ways find the problems(bugs)
+
 
 
 
