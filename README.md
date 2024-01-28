@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Php,Js
 - 🤔 I’m looking for help with my skills
 - 💬 Ask me about anything
-- ⚡ Fun fact: In our life we a;ways find the problems(bugs)
+- ⚡ Fun fact: In our life we always looking for problems(bugs)
 
 
 
