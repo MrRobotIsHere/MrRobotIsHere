@@ -9,7 +9,7 @@ It's Mohammad(MOH)
 **MrRobotIsHere/MrRobotIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🌱 I’m currently learning Php,Js
+- 🌱 I’m currently learning Php,Js,Laravel
 - 🤔 I’m looking for help with my skills
 - 💬 Ask me about anything
 - ⚡ Fun fact: In our life we always looking for problems(bugs)
