@@ -1,7 +1,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobotIsHere&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
 ![](https://www.codewars.com/users/MrRobotIsHere/badges/large)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobotIsHere&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobotIsHere&show_icons=tokyonight=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrRobotIsHere&theme=dark&hide_border=true)<br/>
 
 
