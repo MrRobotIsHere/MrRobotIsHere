@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - ⚡ Fun fact: In our life we always looking for problems(bugs)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 
 
