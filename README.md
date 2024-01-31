@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - ⚡ Fun fact: In our life we always looking for problems(bugs)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Mohammad=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 
