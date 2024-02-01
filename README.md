@@ -7,8 +7,9 @@
 
 
 
-#Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobotIsHere&show_icons=true&theme=radical)
+<P>#Stats:</P>
+
+<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobotIsHere&show_icons=true&theme=radical)</br>
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrRobotIsHere&theme=dark&hide_border=true)<br/>
