@@ -1,10 +1,4 @@
-
-
-
-
 ![](https://www.codewars.com/users/MrRobotIsHere/badges/large)
-
-
 
 
 # Stats:
@@ -33,7 +27,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Php,Js,Laravel
 - 🤔 I’m looking for help with my skills
 - 💬 Ask me about anything
-- ⚡ Fun fact: In our life we always looking for problems(bugs)
+- ⚡ Fun fact: In our life we always looking for problems(bugs)😁[Just for fun]
 
 
 
