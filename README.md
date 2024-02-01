@@ -1,12 +1,10 @@
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobotIsHere&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
-
 
 
 
 ![](https://www.codewars.com/users/MrRobotIsHere/badges/large)
 
-
+#Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobotIsHere&show_icons=true&theme=radical)
 
 
