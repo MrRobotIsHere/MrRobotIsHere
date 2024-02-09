@@ -1,4 +1,3 @@
-![](https://www.codewars.com/users/MrRobotIsHere/badges/large)
 # Stats:
 <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobotIsHere&show_icons=true&theme=radical)</br>
 
