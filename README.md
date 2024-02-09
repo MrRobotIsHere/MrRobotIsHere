@@ -5,7 +5,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrRobotIsHere&theme=dark&hide_border=true)<br/>
 
 # Used languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobotIsHere&theme=white_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobotIsHere&theme=yellow_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
 
 
 ### Hi guys🖐️
