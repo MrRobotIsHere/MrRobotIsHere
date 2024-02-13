@@ -44,5 +44,4 @@ Here are some ideas to get you started:
 
 
 
-
-![image](./profile-3d-contrib/profile-south-season-animate.svg)
+![](https://github.com/MrRobotIsHere/MrRobotIsHere/blob/master/profile-3d-contrib/profile-south-season-animate.svg)
