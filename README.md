@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 
 ## Contact Me:
 <br>
-
+![Gmail](https://img.shields.io/badge/MrFakeRobot.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
