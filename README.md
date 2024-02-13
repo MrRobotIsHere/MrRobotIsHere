@@ -8,10 +8,10 @@
 
 
 # Stats:
-<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobotIsHere&show_icons=true&white=radical)</br>
+<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobotIsHere&show_icons=true&black=radical)</br>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrRobotIsHere&theme=black_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MrRobotIsHere&theme=black=true)<br/>
 
 # Used techs:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobotIsHere&theme=yellow_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
