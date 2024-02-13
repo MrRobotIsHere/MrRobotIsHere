@@ -20,14 +20,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 
 
-[![npm1](https://user-images.githubusercontent.com/80870870/226421563-3df9f271-c07f-4a3b-9286-b079df75124c.png)](https://github.com/surajbhan-3/Skills_logos)
-
-[![mysql](https://user-images.githubusercontent.com/80870870/226377027-c70d9ed2-f386-4986-aadd-f332927277f1.png)](https://github.com/surajbhan-3/Skills_logos)
-
-[![git](https://user-images.githubusercontent.com/80870870/226376967-f464b0a4-5906-4d91-bcab-4176898af55a.png)](https://github.com/surajbhan-3/Skills_logos)
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><path d="M0 0h40v40H0V0z" fill="#cb0000"/><path fill="#fff" d="M7 7h26v26h-7V14h-6v19H7z"/></svg>
-
 </b>
 
 
