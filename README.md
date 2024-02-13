@@ -26,7 +26,7 @@
 
 [![git](https://user-images.githubusercontent.com/80870870/226376967-f464b0a4-5906-4d91-bcab-4176898af55a.png)](https://github.com/surajbhan-3/Skills_logos)
 
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><path d="M0 0h40v40H0V0z" fill="#cb0000"/><path fill="#fff" d="M7 7h26v26h-7V14h-6v19H7z"/></svg>
 
 </b>
 
