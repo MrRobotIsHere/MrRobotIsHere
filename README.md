@@ -42,6 +42,3 @@ Here are some ideas to get you started:
 
 
 
-
-
-![](https://github.com/MrRobotIsHere/MrRobotIsHere/blob/master/profile-3d-contrib/profile-south-season-animate.svg)
