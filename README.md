@@ -38,7 +38,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - ⚡ Fun fact: In our life we always looking for problems(bugs)😁[Just for fun]
 
-## Contact Me:
-<br>
-
-![Telegram](https://telegram.com/MrRobotIsHere_tl/img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
