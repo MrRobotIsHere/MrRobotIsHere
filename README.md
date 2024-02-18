@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left"><a href="https://wakatime.com/@MrRobotIsHere" target="blank"><img align="center" src="https://wakatime.com/static/img/wakatime.svg" alt="MrRobotIsHere" height="30" width="30" /></a>
- WakaTime Activity: <img align="center" src="https://wakatime.com/badge/user/6f8c2feb-af84-4f98-abe5-4a9e232dac9d.svg" alt="MrRobotIsHere" />
+<h3 align="left"><a href="https://wakatime.com/@Mohammad" target="blank"><img align="center" src="https://wakatime.com/static/img/wakatime.svg" alt="Mohammad" height="30" width="30" /></a>
+ WakaTime Activity: <img align="center" src="https://wakatime.com/badge/user/6f8c2feb-af84-4f98-abe5-4a9e232dac9d.svg" alt="Mohammad" />
  </h3>
 <img align="center" src="https://wakatime.com/share/@MrRobotIsHere/eb074acc-ab2c-4c3d-af6a-d18a0fbb0cbe.svg" alt="MrRobotIsHere" />
