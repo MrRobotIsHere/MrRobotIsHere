@@ -11,7 +11,7 @@
 
 
 # Stats:
-<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobotIsHere&show_icons=radical&hide=radical)</br>
+<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobotIsHere&show_icons=radical&hide=true)</br>
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrRobotIsHere&theme=radical&hide=true)<br/>
