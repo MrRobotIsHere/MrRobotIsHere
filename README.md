@@ -5,7 +5,7 @@
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/MrRobotIsHere/blob/main/assets/rainbow-superthin.webp" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrRobotIsHere&label=Profile%20views&color=0e75b6&style=flat" alt="MrRobotIsHere" /> </p>
+
 
 # Stats:
 <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobotIsHere&show_icons=true&black=radical)</br>
