@@ -16,10 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrRobotIsHere&theme=radical&hide_border=true)<br/>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobotIsHere&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrRobotIsHere&show_icons=true&locale=en&layout=compact" alt="MrRobotIsHere" /></p>
 
 
 
