@@ -22,9 +22,6 @@
 </br>
 
 
-
-
-
 # Skills 👨‍💻:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,7 +55,7 @@
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning Php,Js,Laravel
-- 🤔 I’m looking for help with my skills
+- 🤔 I’m looking for help with my skills to every body
 - 💬 Ask me about anything
 - ⚡ Fun fact: In our life we always looking for problems(bugs)😁[Just for fun]
 
