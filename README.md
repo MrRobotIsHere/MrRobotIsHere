@@ -17,9 +17,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrRobotIsHere&theme=radical&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobotIsHere&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-</br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
